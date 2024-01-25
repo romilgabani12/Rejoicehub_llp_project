@@ -34,7 +34,9 @@
 
 1. Clone the repository:
 
-
+```bash
+git clone https://github.com/romilgabani12/Rejoicehub_llp_project.git 
+```
 
 2. Install dependencies:
 
